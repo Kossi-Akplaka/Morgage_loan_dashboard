@@ -1,4 +1,4 @@
-# Morgage_loan_dashboard: Project Overview
+# Morgage loan approval dashboard: Project Overview
 * Built a Power BI dashboard to track key metrics related to loan approval rates, including loan application volumes, approval rates, and loan amounts
 * Created custom data visualizations in Power BI to help users quickly identify trends and patterns in the loan approval data
 * Implemented data cleansing and data transformation techniques in Power Query to prepare data for analysis in Power BI
